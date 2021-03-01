@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.left-footer-type {
+  text-align: left;
+}
+
+.reset-background {
+  background-color: #6f9eaf;
+}
+
+.voteButtons {
+  position: relative;
+  text-align: center;
+}
+
+.adjust-left {
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -100px;
+  transform: translate(-10%, -0%);
+  z-index: 1;
+  opacity: 0.9;
+   filter: alpha(opacity=30); /* For Internet Explorer 8 and earlier */
+}
+
+.navbar-text {
+  position: relative;
+  left: 300px;
+}
+
+.topnavbar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 20px;
+  background-color: #6f9eaf;
+}
+
+.map {
+  position: relative;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.marker-btn img {
+  width: 20px;
+  height: 20px;
+}

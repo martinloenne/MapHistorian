@@ -1,0 +1,6 @@
+export { default as Amphitheatre } from './Amphitheatre'
+export { default as Bridge } from './Bridge'
+export { default as Icon } from './Icon'
+export { default as Location } from './Location'
+export { default as Tempel } from './Tempel'
+export { default as Theater } from './Theater'
