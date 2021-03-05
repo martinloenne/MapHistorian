@@ -21,7 +21,8 @@ Right now this site only contains historic locations and events from the Classic
 
 ## Deployment
 
-Live at www.maphistorian.com
+Live at https://maphistorianv1.herokuapp.com/
+Can take some time to load if the server is idle, just wait for it to start up.
 
 ## Built With
 
