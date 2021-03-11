@@ -23,6 +23,9 @@ Right now this site only contains historic locations and events from the Classic
 
 Live at https://maphistorianv1.herokuapp.com/
 Can take some time to load if the server is idle, just wait for it to start up.
+Testing account you can use:
+Username: test@test.dk
+Password: test123123
 
 ## Built With
 
