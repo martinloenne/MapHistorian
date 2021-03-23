@@ -16,6 +16,7 @@ Right now this site only contains historic locations and events from the Classic
 - Reset password by email
 - Custom middleware that for example controls authentication on API
 - Validation
+- Better security
 - And more :o)
 
 
