@@ -43,4 +43,3 @@ Password: test123123
 - Confirmation email
 - Able to change vote
 - More alerts and error handling
-- Better security
